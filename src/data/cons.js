@@ -10,7 +10,7 @@ export const Bio = {
     github: "https://github.com/AceXsid",
     resume:
       "https://drive.google.com/file/d/13dyojcKwvkbIEeLVFyp0mYxD1POc4981/view?usp=sharing",
-    linkedin: "www.linkedin.com/in/siddharth-chudasama-56655b200",
+    linkedin: "//www.linkedin.com/in/siddharth-chudasama-56655b200",
     insta: "https://www.instagram.com/thesiddharth_chudasama?igsh=aTcwNXZncGh2b3Fk",
   };
   
@@ -293,31 +293,31 @@ export const Bio = {
   export const education = [
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-      school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-      date: "Oct 2021 - Sep 2025",
-      grade: "8.71 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-      degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+      img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAzFBMVEX////h4eHq6urW1tb///P///mFj6fy9PWrssHIx8jOzs6qqqvb29vBwcG0tLTk5OTFydL89+f124/v0F3wzlj97L2lx+Kzucjn6e3W2uTLxrPyzD/76bT//Ogig8Sdwt6UutnqxULI3vJZm84Ae8CeqL/64I4AVp/U5O8AdcBzqdI/j8hvkLNKlcsAccA0isg1d61Rf63v7NTy133g7vSFp8r/8cvGqUTs0GzT0MGQm7IABVo5TXoDL2hjcJEsQnRIWoEAGmB2gZ0AJWTn9xhHAAABWklEQVRIie2T21LDIBBAl6QJEAKNl9y0iaYpGuulWrXWWHNp//+fpH6AQh8cH3IGdhiGM7s7AMDAwMA/J8BwdHxyGkaGXpykZ+eTLMvyC3xpIqZJVnjTssSzWY6NUsqrcHo9raqb2dzIg7gY3VZ3ZRndP1RmZjFaVI9PeA5Ls1LhOYwWL2kehWszD5aFE+X5q1MsDUWYFCvHWb1NTD2Vc10U63dzT1EHAOggM3bj4CBRPSGTw6h2VR4s3RhSKWWc1kTWGrcZfLj1BvBnIz9T0tY1Cdy2cTXETgK2oO72a9Kl6oNBR3QqbQNo+9jdfott0wW64rbD0MVBnwLBpFHN6orQ9H2TgNz1m4TsVNQWD4ViD6iPKLUsn44t37bVDtcQmc8wp7bNOLIF54ILZvFfRcaEEGyPYJQiwbinprCY8n8UPYT2w0P+2LaRKtS3x0gFtWnp9jowMPDXfAG/kB7dlIjiIQAAAABJRU5ErkJggg==",
+      school: "G H Patel College Of Engineering And Technology",
+      date: "2020 - 2024",
+      // grade: "8.71 CGPA",
+      desc: "I am currently pursuing a Bachelor's degree in Information Technology at G H Patel College Of Engineering And Technology, Anand, Gujarat. I have completed 7 semesters and have a CGPA of 7.58. I have done my UI/UX Design course from IIT Roorkee via nptel platfrom, I gain wealthy experience in web development and ui/ux troughout my academics.",
+      degree: "Bachelor of Engineering - BE, Information Technology",
     },
-    {
-      id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-      school: "Methodist School, Dankuni",
-      date: "Apr 2019 - Apr 2025",
-      grade: "88.2%",
-      desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-      degree: "ISC(XII), Science with Computer",
-    },
-    {
-      id: 2,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-      school: "Methodist School, Dankuni",
-      date: "Apr 2017 - Apr 2019",
-      grade: "92.3%",
-      desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-      degree: "ICSC(X), Science with Computer",
-    },
+    // {
+    //   id: 1,
+    //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    //   school: "Methodist School, Dankuni",
+    //   date: "Apr 2019 - Apr 2025",
+    //   grade: "88.2%",
+    //   desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
+    //   degree: "ISC(XII), Science with Computer",
+    // },
+    // {
+    //   id: 2,
+    //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    //   school: "Methodist School, Dankuni",
+    //   date: "Apr 2017 - Apr 2019",
+    //   grade: "92.3%",
+    //   desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
+    //   degree: "ICSC(X), Science with Computer",
+    // },
   ];
   
   export const projects = [

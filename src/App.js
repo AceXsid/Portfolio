@@ -33,7 +33,7 @@ function App() {
       <HeroSection/>
         <Wrapper>
           <Sk/>
-       {/* <Education/> */}
+      <Education/>
         </Wrapper>
        <Footer/>
       </Body>
